@@ -11,4 +11,4 @@ Angular app doesn't have styling(not good in it) <br>
 Code can be improved with: maybe replace SmsConsumer into Consumer console app, and handle all logic there(related with consume, like several events messages). <br>
 Code contains minor duplication because of lack of the time. For instance - logger can be moved to extension method to reuse it. <br>
 <br>
-Thanks, it was good test task, i really enjoyed to do this. i learned a lot of things related with docker when do test task.
+Thanks, it was good test task, i really enjoyed to do this. i learned a lot of things related with docker, rabbitmq(massTransit) when do test task.
