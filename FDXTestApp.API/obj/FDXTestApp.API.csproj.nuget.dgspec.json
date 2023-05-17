@@ -1,0 +1,330 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.API\\FDXTestApp.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.API\\FDXTestApp.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.API\\FDXTestApp.API.csproj",
+        "projectName": "FDXTestApp.API",
+        "projectPath": "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.API\\FDXTestApp.API.csproj",
+        "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Application\\FDXTestApp.Application.csproj": {
+                "projectPath": "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Application\\FDXTestApp.Application.csproj"
+              },
+              "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Infrastructure\\FDXTestApp.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Infrastructure\\FDXTestApp.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.2, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Application\\FDXTestApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Application\\FDXTestApp.Application.csproj",
+        "projectName": "FDXTestApp.Application",
+        "projectPath": "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Application\\FDXTestApp.Application.csproj",
+        "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Domain\\FDXTestApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Domain\\FDXTestApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MassTransit": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Domain\\FDXTestApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Domain\\FDXTestApp.Domain.csproj",
+        "projectName": "FDXTestApp.Domain",
+        "projectPath": "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Domain\\FDXTestApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Infrastructure\\FDXTestApp.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Infrastructure\\FDXTestApp.Infrastructure.csproj",
+        "projectName": "FDXTestApp.Infrastructure",
+        "projectPath": "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Infrastructure\\FDXTestApp.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Bogdan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Bogdan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Application\\FDXTestApp.Application.csproj": {
+                "projectPath": "C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\FDXTestApp.Application\\FDXTestApp.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.16, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

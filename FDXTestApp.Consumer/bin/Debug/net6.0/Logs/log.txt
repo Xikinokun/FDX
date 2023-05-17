@@ -1,0 +1,56 @@
+2023-05-10 21:19:14.145 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-10 21:19:14.253 +06:00 [INF] Hosting environment: Production
+2023-05-10 21:19:14.259 +06:00 [INF] Content root path: C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Consumer\bin\Debug\net6.0
+2023-05-10 21:19:14.796 +06:00 [INF] Bus started: "rabbitmq://localhost/"
+2023-05-10 21:20:23.931 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-10 21:20:24.117 +06:00 [INF] Hosting environment: Production
+2023-05-10 21:20:24.126 +06:00 [INF] Content root path: C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Consumer\bin\Debug\net6.0
+2023-05-10 21:20:24.533 +06:00 [INF] Bus started: "rabbitmq://localhost/"
+2023-05-10 21:25:21.098 +06:00 [INF] Starting bus
+2023-05-10 21:25:21.314 +06:00 [WRN] Start called, but the host was already started: "rabbitmq://localhost/" (Already Started)
+2023-05-10 21:25:21.762 +06:00 [INF] Bus started: "rabbitmq://localhost/"
+2023-05-10 21:25:21.762 +06:00 [INF] Bus started: "rabbitmq://localhost/"
+2023-05-10 21:25:21.768 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-10 21:25:21.770 +06:00 [INF] Hosting environment: Production
+2023-05-10 21:25:21.771 +06:00 [INF] Content root path: C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Consumer\bin\Debug\net6.0
+2023-05-10 21:40:47.578 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-10 21:40:47.657 +06:00 [INF] Hosting environment: Production
+2023-05-10 21:40:47.669 +06:00 [INF] Content root path: C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Consumer\bin\Debug\net6.0
+2023-05-10 21:40:47.939 +06:00 [INF] Bus started: "rabbitmq://localhost/"
+2023-05-10 21:46:47.114 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-10 21:46:47.202 +06:00 [INF] Hosting environment: Production
+2023-05-10 21:46:47.214 +06:00 [INF] Content root path: C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Consumer\bin\Debug\net6.0
+2023-05-10 21:46:47.487 +06:00 [INF] Bus started: "rabbitmq://localhost/"
+2023-05-10 22:01:09.414 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-10 22:01:09.763 +06:00 [INF] Hosting environment: Production
+2023-05-10 22:01:09.835 +06:00 [INF] Content root path: C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Consumer\bin\Debug\net6.0
+2023-05-10 22:01:10.239 +06:00 [INF] Bus started: "rabbitmq://localhost/"
+2023-05-10 22:41:28.417 +06:00 [INF] Configured endpoint queue1, Consumer: FDXTestApp.Consumer.Consumers.SmsConsumer
+2023-05-10 22:41:29.007 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-10 22:41:29.011 +06:00 [INF] Hosting environment: Production
+2023-05-10 22:41:29.013 +06:00 [INF] Content root path: C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Consumer\bin\Debug\net6.0
+2023-05-10 22:41:29.810 +06:00 [INF] Bus started: "rabbitmq://localhost/"
+2023-05-11 13:26:24.890 +06:00 [INF] Configured endpoint queue1, Consumer: FDXTestApp.Application.Consumers.SmsConsumer
+2023-05-11 13:26:25.416 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 13:26:25.417 +06:00 [INF] Hosting environment: Production
+2023-05-11 13:26:25.419 +06:00 [INF] Content root path: C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Consumer\bin\Debug\net6.0
+2023-05-11 13:26:25.933 +06:00 [INF] Bus started: "rabbitmq://localhost/"
+2023-05-11 13:43:18.697 +06:00 [INF] Configured endpoint queue1, Consumer: FDXTestApp.Application.Consumers.SmsConsumer
+2023-05-11 13:43:19.308 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 13:43:19.309 +06:00 [INF] Hosting environment: Production
+2023-05-11 13:43:19.311 +06:00 [INF] Content root path: C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Consumer\bin\Debug\net6.0
+2023-05-11 13:43:20.064 +06:00 [INF] Bus started: "rabbitmq://localhost/"
+2023-05-11 22:51:13.751 +06:00 [INF] Configured endpoint queue1, Consumer: FDXTestApp.Application.Consumers.SmsConsumer
+2023-05-11 22:51:14.295 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-11 22:51:14.297 +06:00 [INF] Hosting environment: Production
+2023-05-11 22:51:14.298 +06:00 [INF] Content root path: C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Consumer\bin\Debug\net6.0
+2023-05-11 22:51:15.036 +06:00 [INF] Bus started: "rabbitmq://localhost/"
+2023-05-16 12:57:44.182 +06:00 [INF] Configured endpoint queue1, Consumer: FDXTestApp.Application.Consumers.SmsConsumer
+2023-05-16 12:57:44.701 +06:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-05-16 12:57:44.705 +06:00 [INF] Hosting environment: Production
+2023-05-16 12:57:44.728 +06:00 [INF] Content root path: C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Consumer\bin\Debug\net6.0
+2023-05-16 12:57:45.457 +06:00 [INF] Bus started: "rabbitmq://localhost/"
+2023-05-16 12:57:46.553 +06:00 [INF] Receiving message
+2023-05-16 12:57:50.305 +06:00 [INF] Phone: 123 is invalid
+2023-05-16 12:57:50.307 +06:00 [INF] Phone: 1111111111 is valid
+2023-05-16 12:57:52.289 +06:00 [INF] Received message

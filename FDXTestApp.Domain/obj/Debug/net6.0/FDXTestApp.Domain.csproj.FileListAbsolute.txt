@@ -1,0 +1,12 @@
+C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Domain\bin\Debug\net6.0\FDXTestApp.Domain.deps.json
+C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Domain\bin\Debug\net6.0\FDXTestApp.Domain.dll
+C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Domain\bin\Debug\net6.0\FDXTestApp.Domain.pdb
+C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Domain\obj\Debug\net6.0\FDXTestApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Domain\obj\Debug\net6.0\FDXTestApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Domain\obj\Debug\net6.0\FDXTestApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Domain\obj\Debug\net6.0\FDXTestApp.Domain.AssemblyInfo.cs
+C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Domain\obj\Debug\net6.0\FDXTestApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Domain\obj\Debug\net6.0\FDXTestApp.Domain.dll
+C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Domain\obj\Debug\net6.0\refint\FDXTestApp.Domain.dll
+C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Domain\obj\Debug\net6.0\FDXTestApp.Domain.pdb
+C:\Users\Bogdan\source\repos\FDXTestApp\FDXTestApp.Domain\obj\Debug\net6.0\ref\FDXTestApp.Domain.dll

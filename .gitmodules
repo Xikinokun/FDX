@@ -1,0 +1,6 @@
+[submodule "sms-app"]
+	path = sms-app
+	url = https://github.com/Xikinokun/sms-app.git
+[submodule "sms-app2"]
+	path = sms-app2
+	url = C:\\Users\\Bogdan\\source\\repos\\FDXTestApp\\sms-app

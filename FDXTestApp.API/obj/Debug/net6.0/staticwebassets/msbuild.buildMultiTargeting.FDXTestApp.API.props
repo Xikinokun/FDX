@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FDXTestApp.API.props" />
+</Project>
