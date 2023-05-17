@@ -13,4 +13,4 @@ Would be great to handle optimistic concurrency in ef core with timestamp, apply
 Also, added test app, can be used with NSubstitute(to check the flow) and IFixture(for dumb data) for each apps(API, Consumer, Application, Infrastucture) <br>
 Code contains minor duplication because of lack of the time. For instance - logger can be moved to extension method to reuse it. <br>
 <br>
-Thanks, it was good test task, i really enjoyed to do this. i learned a lot of things related with docker, rabbitmq(massTransit) when do test task.
+Thanks, it was a good test task, i really enjoyed to do this. i learned a lot of things related with docker, rabbitmq(massTransit) when do test task.
