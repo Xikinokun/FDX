@@ -10,6 +10,7 @@ App was built with Clear Architecture, DDD, CQRS(separate commands and queries f
 Angular app doesn't have styling(not good in it) <br>
 Code can be improved with: maybe replace SmsConsumer into Consumer console app, and handle all logic there(related with consume, like several events messages). <br>
 Would be great to handle optimistic concurrency in ef core with timestamp, apply retry policy(exponential backoff) for messages (transient exceptions for instance) <br>
+and exacly one message <br>
 Also, added test app, can be used with NSubstitute(to check the flow) and IFixture(for dumb data) for each apps(API, Consumer, Application, Infrastucture) <br>
 Code contains minor duplication because of lack of the time. For instance - logger can be moved to extension method to reuse it. <br>
 <br>
